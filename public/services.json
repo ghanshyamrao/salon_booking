@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "name": "Glow & Glam Studio",
+    "price": 499,
+    "duration": 45,
+    "category": "Hair Color",
+    "location": "Maryland City, MD, USA",
+    "rating": 4.9,
+    "originalPrice": 699
+  },
+  {
+    "id": "2",
+    "name": "The Velvet Touch",
+    "price": 569,
+    "duration": 60,
+    "category": "Hair Spa",
+    "location": "New Jersey, USA",
+    "rating": 4.7,
+    "originalPrice": 699
+  },
+  {
+    "id": "3",
+    "name": "Aura Luxe Salon",
+    "price": 399,
+    "duration": 30,
+    "category": "Hair Cut",
+    "location": "California, USA",
+    "rating": 4.5,
+    "originalPrice": 699
+  },
+  {
+    "id": "4",
+    "name": "Opal Beauty Lounge",
+    "price": 749,
+    "duration": 75,
+    "category": "Makeup",
+    "location": "Texas, USA",
+    "rating": 4.8,
+    "originalPrice": 999
+  },
+  {
+    "id": "5",
+    "name": "The Glam Society",
+    "price": 459,
+    "duration": 40,
+    "category": "Nails",
+    "location": "Texas, USA",
+    "rating": 4.2,
+    "originalPrice": 699
+  },
+  {
+    "id": "6",
+    "name": "Crown & Curl",
+    "price": 699,
+    "duration": 50,
+    "category": "Hair Cut",
+    "location": "Texas, USA",
+    "rating": 4.9,
+    "originalPrice": 899
+  }
+]
+
+
